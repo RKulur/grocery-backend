@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "645b49c3aa6575da6ca16f68"
+  },
+  "name": "orange",
+  "description": "this is orange",
+  "image": "image orange",
+  "quantity": 20,
+  "price": 100,
+  "date": {
+    "$date": "2023-05-10T07:37:39.534Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645b4a5c82788f9579ceb3c0"
+  },
+  "name": "banana",
+  "description": "this is banana",
+  "image": "image banana",
+  "quantity": 60,
+  "price": 55,
+  "date": {
+    "$date": "2023-05-10T07:40:12.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645b4a7e82788f9579ceb3c2"
+  },
+  "name": "kiwi",
+  "description": "this is kiwi",
+  "image": "image kiwi",
+  "quantity": 40,
+  "price": 120,
+  "date": {
+    "$date": "2023-05-10T07:40:46.077Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645b4a9a82788f9579ceb3c4"
+  },
+  "name": "mango",
+  "description": "this is mango",
+  "image": "image mango",
+  "quantity": 70,
+  "price": 130,
+  "date": {
+    "$date": "2023-05-10T07:41:14.447Z"
+  },
+  "__v": 0
+}]
