@@ -4,6 +4,9 @@ const {
   Register,
   Login,
   GetGroceries,
+  InsertCart,
+  ViewCart,
+  DeleteCart
 } = require("../Controller/user_controller");
 
 router.post("/register", Register);
